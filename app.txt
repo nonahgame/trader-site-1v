@@ -1,0 +1,12 @@
+"""
+this bot is still now on btc trade
+have strategy filter but loose the grip on refresh can search base on trade record html 
+this app works with 4040 port
+no login pattern but still no the process 
+strategy use close>open to buy and sell in opposite direction
+it works with stop lost take profit 
+it store data in sqlit3 on GitHub 
+and many more 
+we will make it to use 2 bot ie, def trading_bot() and def optimize_bot()
+this optimize_bot() will be organizing the trade for trading_bot but still yet
+"""
